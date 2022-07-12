@@ -1,0 +1,11 @@
+{
+  "name": "bun-app",
+  "version": "0.0.1",
+  "dependencies": {
+    "bun-types": "^0.1.3"
+  },
+  "scripts": {},
+  "devDependencies": {
+    "typescript": "latest"
+  }
+}
